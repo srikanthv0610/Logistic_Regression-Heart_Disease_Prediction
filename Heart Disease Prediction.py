@@ -5,7 +5,7 @@ import numpy as np
 
 sns.set_style("whitegrid")
 
-df = pd.read_csv("Learning_Dataset/heart.csv")
+df = pd.read_csv("heart.csv")
 print(df.head())
 
 # Analysing the dataset
