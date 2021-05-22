@@ -1,6 +1,6 @@
 # Logistic_Regression-Heart_Disease_Prediction
 
-![Heatmap](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction/blob/main/Plots/Figure_5.PNG)
+![Heatmap](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction/blob/main/Plots/Figure_5.png)
 
 
 # Result Achieved:
