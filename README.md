@@ -1,5 +1,7 @@
 # Logistic_Regression-Heart_Disease_Prediction
 
+
+# Correlation between different variables
 ![Heatmap](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction/blob/main/Plots/Figure_5.png)
 
 
