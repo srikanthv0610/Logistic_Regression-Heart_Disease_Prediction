@@ -1,4 +1,4 @@
-# Logistic_Regression-Heart_Disease_Prediction
+# Heart Disease Prediction using Logistic Regression:
 Usin the heart dataset [here](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction/blob/main/Dataset), I have designed this model for:
 * Analysing the different variables and finding relations and insights using descriptive statistical analysis technique
 * Data Preprocessing
