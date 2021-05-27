@@ -6,12 +6,12 @@ Usin the heart dataset [here](https://github.com/srikanthv0610/Logistic_Regressi
 * Using Logistic Regression algorithm to train a model and to predict heart disease
 * Analysing the Models performance
 
-# Introduction:
+## Introduction:
 Factors that influence heart disease are body cholesterol levels, smoking habit and obesity, family history of illnesses, blood pressure, and work environment. Machine learning algorithms play an essential and precise role in the prediction of heart disease. 
 
 Heart disease can be predicted based on various symptoms such as age, gender, heart rate, etc. Consequently, this would help to reduce the death rate of heart patients.
 
-# Observing the features with respect to the target variable:
+## Observing the features with respect to the target variable:
 ![Calegorical_values](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction/blob/main/Plots/Figure_2.png)
 
 Observation from the above plot:
@@ -31,7 +31,7 @@ Observation from the above plot:
 * the old peak of exercise-induced ST depression vs. rest looks at heart stress during exercise an unhealthy heart will stress more.
 
 
-# Correlation Matrix and Correlation with target:
+## Correlation Matrix and Correlation with target:
 ![Heatmap](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction/blob/main/Plots/Figure_5.png)
 
 ![Heatmap](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction/blob/main/Plots/Figure_6.png)
@@ -39,5 +39,5 @@ Observation from the above plot:
 Observations from correlation:
 * fbs and chol are the least correlated with the target variable.
 
-# Result Achieved:
+## Results:
 ![Model Performance](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction/blob/main/Plots/Performance%20Result.PNG)
