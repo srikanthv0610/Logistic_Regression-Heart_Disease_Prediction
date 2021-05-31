@@ -8,7 +8,7 @@ Usin the heart dataset [here](https://github.com/srikanthv0610/Logistic_Regressi
 
 ## Introduction:
 
-![Calegorical_values](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction/blob/main/Plots/HeartDisease.png)
+![Heart_disease](https://github.com/srikanthv0610/Logistic_Regression-Heart_Disease_Prediction/blob/main/Plots/Heart%20Disease%20Predition.png)
 
 Factors that influence heart disease are body cholesterol levels, smoking habit and obesity, family history of illnesses, blood pressure, and work environment. Machine learning algorithms play an essential and precise role in the prediction of heart disease. 
 
